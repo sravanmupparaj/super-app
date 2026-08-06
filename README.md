@@ -22,10 +22,59 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Learn More
 
+# 🌍 Super App – All-in-One Service Platform
+
+An all-in-one full-stack platform that combines multiple everyday services into a single application. Users can book buses, taxis, hotels, order food, and shop from local stores through one seamless experience.
+
+## 🚀 Features
+
+- 🚌 Bus Booking
+- 🚖 Taxi Booking
+- 🚗 Ride Sharing
+- 🏨 Hotel Booking
+- 🍔 Food Delivery
+- 🛍️ Local Marketplace
+- 👤 User Authentication
+- 🛒 Shopping Cart
+- 💳 Razorpay Payment Integration
+- 📦 Order Tracking
+- 🏪 Merchant Dashboard
+- 🛠️ Admin Dashboard
+
+## 🛠️ Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Razorpay API
+
+## 🎯 Objective
+
+The goal of this project is to provide transportation, accommodation, shopping, and food delivery services within a single scalable platform, reducing the need for multiple separate applications.
+
+## 📄 Project Status
+
+🚧 Currently under active development.
+
+## 👨‍💻 Author
+
+**Sravan Mupparaju**
+
+Product Support Engineer | Full-Stack Developer
+
+📧 sravanchowdary2003@gmail.com
+
+
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
